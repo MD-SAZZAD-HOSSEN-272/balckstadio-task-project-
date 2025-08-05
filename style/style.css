@@ -136,7 +136,7 @@ body {
 /* hero section style */
 
 .hero {
-  background-image: url("heroImage.png"); /* Replace with your own image path */
+  background-image: url("../heroImage.png"); /* Replace with your own image path */
   background-size: cover;
   background-position: center;
   height: 100vh;
